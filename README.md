@@ -15,9 +15,3 @@ This Telegram bot automates task management, enabling users to assign tasks to t
 - Python 3.8 or above installed on your system.
 - A Telegram bot token obtained from [BotFather](https://t.me/BotFather).
 
-## Setup Instructions
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/yourusername/your-repository.git
-   cd your-repository
